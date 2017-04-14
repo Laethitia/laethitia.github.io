@@ -3,12 +3,6 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
-#citi-logo{
-
-  margin-top:30px;
-}
-
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -232,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -561,7 +555,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
+  background-image: url('../map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
