@@ -1,0 +1,47 @@
+
+
+#Calculator{
+	width: 250px;
+	height: 350px;
+	border: 2px solid yellow;
+	text-align: center;
+	background: lightblue;
+	margin: 150px auto;
+}
+
+#display{
+	width: 230px;
+	height: 30px;
+	border: 2px solid black;
+	margin: 20px auto;
+	box-shadow: 0px 0px 5px yellow;
+	text-align: right;
+	font: 15px bold;
+	color: black;
+}
+
+#keys{
+	width: 40px;
+	height: 35px;
+	margin-left: 5px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+#keys:hover{
+	background: yellow;
+	font-weight: bold;
+}
+
+#equal{
+	width: 80px;
+	height: 35px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+#equal:hover{
+	background: yellow;
+	font-weight: bold;
+}
